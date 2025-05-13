@@ -10,6 +10,7 @@ namespace gitub3._0
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola mundo");
         }
     }
 }
